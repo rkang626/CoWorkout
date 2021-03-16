@@ -12,7 +12,6 @@
     "node-sass": "^5.0.0",
     "normalize.css": "^8.0.1",
     "pg": "^8.5.1",
-    "pg-native": "^3.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
